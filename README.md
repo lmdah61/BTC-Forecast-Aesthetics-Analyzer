@@ -6,9 +6,9 @@ Usage:
 
 > python main.py [predicted_days] [past_days]
 
-> predicted_days: The number of days to predict Bitcoin prices. (Default: 25)
+predicted_days: The number of days to predict Bitcoin prices. (Default: 25)
 
-> past_days: The number of past days of Bitcoin data to consider. (Default: 100)
+past_days: The number of past days of Bitcoin data to consider. (Default: 100)
 
 Output:
 
