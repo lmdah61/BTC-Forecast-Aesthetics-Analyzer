@@ -8,9 +8,9 @@ Usage:
 >past_days: The number of past days of Bitcoin data to consider. (Default: 100)
 
 Output:
->The predicted Bitcoin prices for the next predicted_days days.
->The aesthetics scores of the generated prediction charts.
->The generated prediction charts saved as PNG files in the project directory.
+The predicted Bitcoin prices for the next predicted_days days.
+The aesthetics scores of the generated prediction charts.
+The generated prediction charts saved as PNG files in the project directory.
 
 Example:
 >python main.py 50 200
