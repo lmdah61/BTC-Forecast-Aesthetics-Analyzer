@@ -23,7 +23,7 @@ The generated prediction charts saved as PNG files in the project directory.
 
 Example:
 ```bash
-$ python main.py 50 200
+python main.py 50 200
 ```
 
 This will predict Bitcoin prices for the next 50 days using the past 200 days of Bitcoin data. The predicted prices and the aesthetics scores of the generated prediction charts will be printed to the console. The generated prediction charts will be saved as PNG files in the project directory.
