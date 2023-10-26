@@ -1,6 +1,6 @@
 # BTC-Forecast-Aesthetics-Analyzer
 
-This project aims to predict Bitcoin prices using three different machine learning models: Prophet, ARIMA, and LSTM and evaluate the aesthetics of the generated prediction charts using NiMA pretrained model.
+This project aims to predict Bitcoin prices using three different machine learning models: Prophet, ARIMA, and LSTM and evaluate the aesthetics of the generated prediction charts using NIMA pretrained model.
 
 Usage:
 
