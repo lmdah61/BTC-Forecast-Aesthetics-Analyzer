@@ -1,6 +1,6 @@
 # BTC-Forecast-Aesthetics-Analyzer
 
-This project aims to predict Bitcoin prices using three different machine learning models: Prophet, ARIMA, and LSTM and evaluate the aesthetics of the generated prediction charts.
+This project aims to predict Bitcoin prices using three different machine learning models: Prophet, ARIMA, and LSTM and evaluate the aesthetics of the generated prediction charts using NiMA pretrained model.
 
 Usage:
 
@@ -26,4 +26,4 @@ Example:
 python main.py 50 200
 ```
 
-This will predict Bitcoin prices for the next 50 days using the past 200 days of Bitcoin data. The predicted prices and the aesthetics scores of the generated prediction charts will be printed to the console. The generated prediction charts will be saved as PNG files in the project directory.
+This will predict Bitcoin prices for the next 50 days using the past 200 days of Bitcoin data. The predicted prices and the aesthetics scores of the generated prediction charts will be given. The generated prediction charts will be saved as PNG files in the project directory.
